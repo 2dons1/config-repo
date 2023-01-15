@@ -1,4 +1,4 @@
-temperature_unit: K
+temperature_unit: C
 
 eureka:
   client:
